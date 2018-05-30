@@ -1,6 +1,6 @@
 # main text of home
 name: Crypto Voice
-bio: A free Discord server for all things related to trading cryptos.
+bio: A Discord community for crypto traders
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,7 +56,7 @@ authors:
         name: Bin Basherton
         bio: A Man or something
         external-image: false
-        picture: assets/images/binbash.jpg
+        picture: assets/images/profile.jpg
         twitter: iouea1
 
 # do you want a larger site? change the option below
