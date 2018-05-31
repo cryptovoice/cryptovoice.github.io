@@ -3,19 +3,23 @@ import React from 'react'
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="logo">
-            <span className="icon fa-diamond"></span>
+            {<span className="icon fa fa-2x fa-diamond"></span>}
+            {/*<span className="icon fa-space-shuttle"></span>*/}
+            {/*<span className="icon fa-eye"></span>*/}
+            {/*<span className="icon fa-rocket"></span>*/}
+            {/*<span className="icon fa-wheelchair-alt"></span>*/}
         </div>
         <div className="content">
             <div className="inner">
-                <h1>Dimension</h1>
-                <p>A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />
-                for free under the <a href="https://html5up.net/license">Creative Commons</a> license.</p>
+                <h1>Crypto Voice</h1>
+                <p>Welcome to a free for all trading community</p>
+                <a href='https://discord.gg/2Qb766r'>Discord invitation link</a>
             </div>
         </div>
         <nav>
             <ul>
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('intro')}}>Intro</a></li>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('work')}}>Work</a></li>
+                {/*<li><a href="javascript:;" onClick={() => {props.onOpenArticle('work')}}>Work</a></li>*/}
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('about')}}>About</a></li>
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('contact')}}>Contact</a></li>
             </ul>

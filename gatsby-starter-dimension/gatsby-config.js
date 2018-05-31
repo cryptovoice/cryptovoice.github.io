@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "CRAKsby Starter - Dimension by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Dimension by HTML5 UP"
+    title: "Crypto Voice",
+    author: "Some People",
+    description: "Crypto Voice is a free for all trading community."
   },
   pathPrefix: '/',
   plugins: [
