@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{114:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Crypto Voice",description:"Crypto Voice is a free for all trading community."}}},layoutContext:{}}}});
+//# sourceMappingURL=path----ea6f7bda213ed9d6d78d.js.map
