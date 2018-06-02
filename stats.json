@@ -17,12 +17,12 @@
       "path---new-page-4be99ab7efd4585d8300.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-80ad8356218a5175adf7.js",
-      "component---src-templates-blog-post-js-80ad8356218a5175adf7.js.map"
+      "component---src-templates-blog-post-js-23a48653293aadd317a7.js",
+      "component---src-templates-blog-post-js-23a48653293aadd317a7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-3b0f16e7e70b1642f389.js",
-      "component---src-layouts-index-js-3b0f16e7e70b1642f389.js.map"
+      "component---src-layouts-index-js-bfe3243a8a3692e78bf4.js",
+      "component---src-layouts-index-js-bfe3243a8a3692e78bf4.js.map"
     ],
     "path---hi-folks": [
       "path---hi-folks-2e0888923bad408926ea.js",
@@ -36,6 +36,10 @@
       "path---hello-world-88fae99dccf784fef957.js",
       "path---hello-world-88fae99dccf784fef957.js.map"
     ],
+    "path---questions": [
+      "path---questions-9dc8dfaff057b0992af4.js",
+      "path---questions-9dc8dfaff057b0992af4.js.map"
+    ],
     "commons": [
       "commons-892d06806ab0cf06f0f3.js",
       "commons-892d06806ab0cf06f0f3.js.map"
@@ -45,8 +49,8 @@
       "component---src-pages-new-page-js-2f4279f5d1a82359dfbf.js.map"
     ],
     "app": [
-      "app-14618efd5f46b368dc9b.js",
-      "app-14618efd5f46b368dc9b.js.map"
+      "app-e41f171f435f1fa88053.js",
+      "app-e41f171f435f1fa88053.js.map"
     ]
   }
 }
