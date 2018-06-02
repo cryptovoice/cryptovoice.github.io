@@ -5,6 +5,11 @@ import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
 
+import casualties from '../images/casualties.jpg'
+import freeMattertea from '../images/freeMattertea.jpg'
+import freeBacktrack from '../images/freeBacktrack.jpg'
+import hamz from '../images/hamz.jpg'
+
 class Main extends React.Component {
   render() {
 
@@ -12,6 +17,22 @@ class Main extends React.Component {
 
     return (
       <div id="main" style={this.props.timeout ? {display: 'flex'} : {display: 'none'}}>
+
+        {<article id="casualties" className={`${this.props.article === 'casualties' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
+          <h2 className="major">Casualties of Discord</h2>
+          <span className="image main"><img src={casualties} alt="" /></span>
+          <p className='center'>These are comrades who are not with us anymore, either banned or liquidated.</p>
+          <h3 className='center'>Mattertea</h3>
+          <span className="image main"><img src={freeMattertea} alt="" /></span>
+          <br/>
+          <h3 className='center'>BackTrack</h3>
+          <span className="image main"><img src={freeBacktrack} alt="" /></span>
+          <br/>
+          <h3 className='center'>HamzouzZ</h3>
+          <span className="image main"><img src={hamz} alt="" /></span>
+          <br/>
+          {close}
+        </article>}
 
         <article id="intro" className={`${this.props.article === 'intro' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Intro</h2>
