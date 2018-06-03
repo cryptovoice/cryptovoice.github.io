@@ -16,7 +16,7 @@ The next half hour or so... It's gonna push a bit
 
 I'm gonna touch on things that are none of mine or anyone else's business ...  that might be private info, .....shit you don't want to answer  - either to protect yourself, the business, others, and CWNs public persona; but I believe --- in this instance, complete transparency is the only approach... And tbh - I personally won't settle for less. I don't think the rest of the community should either..  CWN is behind the 8 ball. Right now CWN either scratches and walks away tail between its legs or it gets a rematch. Likely the former...  
 
-Also - just FYI... starting a few weeks ago, Scroat's time is not free.... The terms are very open, but I'm actually done giving for nothing... I've alienated so fucking many in just trying to quell the shit that exists between the few and it's pissing me off.  
+Also - just FYI... starting a few weeks ago, scroatum time is not free.... The terms are very open, but I'm actually done giving for nothing... I've alienated so fucking many in just trying to quell the shit that exists between the few and it's pissing me off.  
 
 It may look like I'm just here to make people laugh... lighten the mood and distract  - and while thats definitely definitely true a lot of the time, there is also a calculated method to the madness.  I spend several hours a day talking to everyone to try and keep the peace andI take this very seriously.  I don't have the luxury of a canned response to the community.  When someone who subscribes asks me questions, I spend the time to make sure they are still here next month. 
 
