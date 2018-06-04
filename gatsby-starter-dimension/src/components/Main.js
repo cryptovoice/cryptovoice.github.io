@@ -9,6 +9,7 @@ import casualties from '../images/casualties.jpg'
 import freeMattertea from '../images/freeMattertea.jpg'
 import freeBacktrack from '../images/freeBacktrack.jpg'
 import hamz from '../images/hamz.jpg'
+import juniorWaves from '../images/juniorWaves.jpg'
 
 class Main extends React.Component {
   render() {
@@ -22,14 +23,17 @@ class Main extends React.Component {
           <h2 className="major">Casualties of Discord</h2>
           <span className="image main"><img src={casualties} alt="" /></span>
           <p className='center'>These are comrades who are not with us anymore, either banned or liquidated.</p>
-          <h3 className='center'>Mattertea</h3>
-          <span className="image main"><img src={freeMattertea} alt="" /></span>
+          <h3 className='center'>Junior Lancaster</h3>
+          <span className="image main"><img src={juniorWaves} alt="" /></span>
+          <br/>
+          <h3 className='center'>HamzouzZ</h3>
+          <span className="image main"><img src={hamz} alt="" /></span>
           <br/>
           <h3 className='center'>BackTrack</h3>
           <span className="image main"><img src={freeBacktrack} alt="" /></span>
           <br/>
-          <h3 className='center'>HamzouzZ</h3>
-          <span className="image main"><img src={hamz} alt="" /></span>
+          <h3 className='center'>Mattertea</h3>
+          <span className="image main"><img src={freeMattertea} alt="" /></span>
           <br/>
           {close}
         </article>}

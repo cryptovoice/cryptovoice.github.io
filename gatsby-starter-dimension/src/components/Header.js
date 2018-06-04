@@ -14,7 +14,8 @@ const Header = (props) => (
         </div>
         <div className="content">
             <div className="inner">
-                <h1>Crypto Voice Lounge</h1>
+                <h1>Crypto Voice</h1>
+                <h1>Lounge</h1>
                 <p>Welcome to a free for all trading community</p>
             </div>
         </div>
